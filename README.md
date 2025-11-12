@@ -11,13 +11,13 @@ Welcome to my repository for computer science projects spanning High School, AP 
 ## Repository Contents
 
 - Haas Hall Academy Bentonville High School Fall 2018 – Python Challenges for Computer Science Course
-    This folder contains 27 Python challenges. Each challenge is implemented in its own function with a main menu that lets you select which challenge to run. The challenges cover a wide range of topics from basic list operations and string manipulation to more advanced problems such as reaction games and turtle-based clocks.
+    This folder contains 27 Python challenges done on PythonRoom and CodeHS. Each challenge is implemented in its own function with a main menu that lets you select which challenge to run. The challenges cover a wide range of topics from basic list operations and string manipulation to more advanced problems such as reaction games and turtle-based clocks.
 
 - Haas Hall Academy Bentonville High School Spring 2021 – Java Projects for AP Computer Science*  
-    This folder includes 17 Java projects that showcase fundamental concepts in Java programming. Projects include a Heads or Tails Tool and a GPS program, along with other assignments related to the AP Computer Science curriculum.
+    This folder includes 17 Java projects done on repl.it that showcase fundamental concepts in Java programming. Projects include a Heads or Tails Tool and a GPS program, along with other assignments related to the AP Computer Science curriculum.
 
 - University of Arkansas Fall 2023 – C++ Projects for Programming Foundations I  
-    This folder contains C++ projects that were developed as part of the university curriculum, including a Bike Race Calculator Tool and a Product Checkout simulation. Each project is organized with proper commenting and uses standard library functions to facilitate code understanding and reusability.
+    This folder contains C++ projects done on OnlineGDB that were developed as part of the university curriculum, including a Bike Race Calculator Tool and a Product Checkout simulation. Each project is organized with proper commenting and uses standard library functions to facilitate code understanding and reusability.
 
 ---
 
