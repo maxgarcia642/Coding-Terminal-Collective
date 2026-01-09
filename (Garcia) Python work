@@ -1366,7 +1366,7 @@ def challenge27():
 ###########################################################################
 # Challenge 27: FINAL PROJECT STORY GAME: THE TOP SECRET MISSION
 ###########################################################################
-def challenge27():
+def challenge27_duplicate():
     """
     Challenge 27: Final Project Story Game: THE TOP SECRET MISSION
     - Displays the final mission story game (identical to Challenge 27 above).
